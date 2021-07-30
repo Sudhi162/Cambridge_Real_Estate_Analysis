@@ -47,6 +47,7 @@ in cambridge area whether in Housing project, Business Premises or Piece of Land
 **Blog Post**
 
 The Analysis was presented in my medium blog post.
+
 https://medium.com/@sudee.gm/cambridge-real-estate-analysis-a12d27ec9032
 
 **Aknowledgements:**
