@@ -44,6 +44,11 @@ more than mean price for condominiums in Cambridge area as std for condominiums 
 **Conclusion** - Investment in a good property with nicer features 
 in cambridge area whether in Housing project, Business Premises or Piece of Land may be a wise decision for Future Financial Prosperity!
 
+**Blog Post**
+
+The Analysis was presented in my medium blog post.
+https://medium.com/@sudee.gm/cambridge-real-estate-analysis-a12d27ec9032
+
 **Aknowledgements:**
 
 City of Cambridge - OpenData platform
