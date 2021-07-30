@@ -37,7 +37,7 @@ The mean for a Business premise was 21MM and for condominiums the mean was 735k 
 Also notably depending on the premium property features sometimes may cost upto 2MM USD 
 more than mean price for condominiums in Cambridge area as std for condominiums is 2.2 MM!
 
-2.In the last 10 years condiminum properties have been outselling Family homes and other business premises in Cambridge area.
+2. In the last 10 years condiminum properties have been outselling Family homes and other business premises in Cambridge area.
 
 3. Family Homes, Business premises, Piece of Land and Educational properties have sold for much more than the last assessed value.
 
