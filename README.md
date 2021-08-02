@@ -45,9 +45,18 @@ The mean for a Business premise was 21MM and for condominiums the mean was 735k 
 Also notably depending on the premium property features sometimes may cost upto 2MM USD 
 more than mean price for condominiums in Cambridge area as std for condominiums is 2.2 MM!
 
+![AssessedValueDistPlot](https://user-images.githubusercontent.com/52425499/127932879-6d7b3e59-5dd3-4f98-9d6b-14d4d12d1278.jpg)
+
+
 2. In the last 10 years condiminum properties have been outselling Family homes and other business premises in Cambridge area.
 
+![SalesVolume](https://user-images.githubusercontent.com/52425499/127932922-a23690d1-9546-48c9-9ab5-cb3131a0bb70.png)
+
+
 3. Family Homes, Business premises, Piece of Land and Educational properties have sold for much more than the last assessed value.
+
+![PriceGapPlot](https://user-images.githubusercontent.com/52425499/127932944-d6f30166-4f09-424f-83d2-96c87086dc90.png)
+
 
 **Conclusion** - Investment in a good property with nicer features 
 in cambridge area whether in Housing project, Business Premises or Piece of Land may be a wise decision for Future Financial Prosperity!
