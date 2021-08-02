@@ -18,6 +18,14 @@ This project aims to analyse the Real estate in Cambridge MA and answer below qu
 
 **Contents:**
 
+CambridgeHomePricesAnalysis.ipynb - Python Notebook which contains the technical implementation of the project.
+
+README.md - This file contains the detailed description of the project.
+
+fy2019_propDB.xlsx - Cambridge housing data for 2019. Sample Data for reference.
+
+property_database_2015_metadata.xlsx - Data dictionary containing the description of each column in the dataset.
+
 
 
 **Libraries:**
